@@ -1,0 +1,1 @@
+I have a car that gets 12 MPG and I drive 156 miles a day. If i spend $46k on a car that gets 35 MPG how long will it be until i recoup my investment? Use Python to answer this.
